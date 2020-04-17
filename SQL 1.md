@@ -12,7 +12,8 @@ cf) 속성 : 엔터티 집합에 속하는 개체들의 특성을 설명 가능
 *엔터티는 인스턴스의 집합, 인스턴스는 엔터티 하나의 값에 해당*  
  
   2. 엔터티와 인스턴스에 대한 내용과  표기법  
- ![logo](http://www.dbguide.net/publishing/img/knowledge/SQL_023.jpg)과목, 강사 사건 < 엔터티  
+ ![logo](http://www.dbguide.net/publishing/img/knowledge/SQL_023.jpg)  
+ 과목, 강사 사건 < 엔터티  
  수학, 영어 < 엔터티의 인스턴스  
  이춘식, 조시형 < 강사라는 엔터티의 인스턴스  
  사건번호인 2010-001, 2010-002 < 사건 엔터티의 인스턴스  
